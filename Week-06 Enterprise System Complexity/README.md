@@ -67,8 +67,5 @@ This week's documentation covers:
 
 ## Next Topic
 
-**Week 07 – NetSuite Procure-to-Pay (P2P) Architecture**
+**Week 07 – System Interactions of Items**
 
-This week explores how NetSuite manages vendor transactions, procurement workflows, and expense recognition, and how purchasing activities impact financial reporting and operational efficiency.
-
-It will also cover the end-to-end procurement lifecycle, including purchase orders, vendor bills, approvals, and financial posting behavior.
