@@ -71,4 +71,4 @@ This week's documentation covers:
 
 ## Next Topic
 
-**Week 08 – NetSuite Order-to-Cash (O2C) Architecture**
+**Week 08 – NetSuite Reporting & Valuation Architecture**
