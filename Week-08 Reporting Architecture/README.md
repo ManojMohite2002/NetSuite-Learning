@@ -71,4 +71,4 @@ This week's documentation covers:
 
 ## Next Topic
 
-**Week 09 – NetSuite Procure-to-Pay (P2P) Architecture**
+**Week 09 – Developer & Automation Architecture**
