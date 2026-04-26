@@ -77,4 +77,4 @@ A single poorly designed script can:
 
 ## Next Topic
 
-**Week 10 – Integration Architecture & External Systems**
+**Week 10 – Item Governance & Risk Control**
