@@ -103,7 +103,7 @@ Even a correctly created transaction can produce incorrect financial results if 
 
 ## Next Topic
 
-**Week 12 – Integration Architecture & External Systems**
+**Week 12 – Procure to Pay**
 
 After understanding how transactions behave internally within NetSuite, the next step is to analyze how **external systems interact with NetSuite** and how integrations influence financial data.
 
