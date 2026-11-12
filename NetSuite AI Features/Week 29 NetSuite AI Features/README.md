@@ -124,6 +124,4 @@ flowchart LR
 [![GitHub](https://img.shields.io/badge/GitHub-NetSuite--Learning-181717?style=for-the-badge&logo=github)](https://github.com/ManojMohite2002/NetSuite-Learning)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojmohite2002/)
 
-*Lessons only. No confidential or client details.*
-
 </div>
