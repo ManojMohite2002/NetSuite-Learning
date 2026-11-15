@@ -2,7 +2,7 @@
 
 ![Banner](assets/banner.png)
 
-![Weeks](https://img.shields.io/badge/Weeks%20Completed-28-2F7FD6?style=for-the-badge)
+![Weeks](https://img.shields.io/badge/Weeks%20Completed-29-2F7FD6?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-NetSuite%20%2B%20AI-14B8A6?style=for-the-badge)
 ![SuiteScript](https://img.shields.io/badge/SuiteScript-2.1-8B5CF6?style=for-the-badge)
 ![Updated](https://img.shields.io/badge/Updated-Nov%202026-F59E0B?style=for-the-badge)
