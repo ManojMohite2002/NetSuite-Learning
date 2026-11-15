@@ -41,9 +41,6 @@
 | **🧾 Tax and Finance Series** | Tax architecture, GST, HSN and SAC in NetSuite | [Browse](./) |
 | **🛠️ Setup Guides** | SDF setup, tooling, common errors | [Browse](./) |
 
-> [!NOTE]
-> Replace each `./` link above with the real folder path once you push, for example `./Week-28-Advanced-Saved-Search-Performance`.
-
 ---
 
 ## 🆕 New: NetSuite AI Series
@@ -83,7 +80,6 @@ flowchart LR
 | 21 | Tax architecture | [open](./) |
 | 22 | GST, HSN and SAC | [open](./) |
 | 28 | Advanced Saved Search and Performance | [open](./) |
-| ... | Add one row per week as you publish | |
 
 </details>
 
